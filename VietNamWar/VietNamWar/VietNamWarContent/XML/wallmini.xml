@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+	<Item>
+		<Key>%</Key>
+		<Value>30 0 30 30</Value>
+	</Item>
+	<Item>
+		<Key>@</Key>
+		<Value>0 30 30 30</Value>
+	</Item>
+	<Item>
+		<Key>#</Key>
+		<Value>0 0 30 30</Value>
+	</Item>
+	<Item>
+		<Key>~</Key>
+		<Value>30 30 30 30</Value>
+	</Item>	
+	
+
+</Asset>
+</XnaContent>

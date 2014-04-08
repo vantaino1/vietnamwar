@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>tank1</Key><Value>0 0 30 30</Value></Item>
+<Item><Key>tank2</Key><Value>30 0 30 30</Value></Item>
+<Item><Key>tank3</Key><Value>0 30 30 30</Value></Item>
+<Item><Key>tank4</Key><Value>30 30 30 30</Value></Item>
+<Item><Key>tank5</Key><Value>60 0 30 30</Value></Item>
+<Item><Key>tank6</Key><Value>60 30 30 30</Value></Item>
+<Item><Key>tank7</Key><Value>90 0 30 30</Value></Item>
+<Item><Key>tank8</Key><Value>90 30 30 30</Value></Item>
+</Asset>
+</XnaContent>

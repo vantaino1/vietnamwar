@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>#</Key><Value>0 0 60 60</Value></Item>
+<Item><Key>%</Key><Value>60 0 60 60</Value></Item>
+<Item><Key>@</Key><Value>0 60 60 60</Value></Item>
+<Item><Key>~</Key><Value>60 60 60 60</Value></Item>
+</Asset>
+</XnaContent>
